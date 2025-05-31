@@ -14,4 +14,4 @@ Hi! I'm Yang, a data analyst who enjoys turning messy data into insights—and m
 
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yang-dai-diane/)
-- [📁 Project Portfolio](https://github.com/yangyang20k/Portfolio-Guide)
+- [📁 Project Portfolio](https://github.com/yangyang20k/Portfolio-Guide)](https://github.com/yangyang2ok/project_guide-/blob/main/README.md)
