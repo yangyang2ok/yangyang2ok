@@ -11,6 +11,7 @@ Hi! I'm Yang, a data analyst who enjoys turning messy data into insights—and m
 - DB: MySQL, BigQuery, PostgreSQL
 - Visualization: Power BI, Tableau, Looker Studio
 
+
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yang-dai-diane/)
-
+- [📁 Project Portfolio](https://github.com/yangyang20k/Portfolio-Guide)
