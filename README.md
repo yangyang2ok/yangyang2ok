@@ -12,5 +12,5 @@ Hi! I'm Yang, a data analyst who enjoys turning messy data into insights—and m
 - Visualization: Power BI, Tableau, Looker Studio
 
 ## 🔗 Let's Connect
-- [LinkedIn](https://your-linkedin-link)
-- [Personal Website](https://your-site.com)
+- [LinkedIn](https://www.linkedin.com/in/yang-dai-diane/)
+
