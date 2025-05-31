@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 About Me
+Hi! I'm Yang, a data analyst who enjoys turning messy data into insights—and making sure it looks good doing it 🎨📊
 
-<!--
-**yangyang2ok/yangyang2ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📌 Expertise in SQL, Python, Power BI, Tableau
+- 🔍 Focus on operational insights and marketing data
+- 🎓 Graduate from UF with ISOM (Data Science Track)
+- 😄 Fun fact: I believe ugly charts are a crime
 
-Here are some ideas to get you started:
+## 🧰 Tools & Tech
+- Language: SQL, Python, R
+- DB: MySQL, BigQuery, PostgreSQL
+- Visualization: Power BI, Tableau, Looker Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's Connect
+- [LinkedIn](https://your-linkedin-link)
+- [Personal Website](https://your-site.com)
