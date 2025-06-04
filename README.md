@@ -8,4 +8,4 @@ Hi! I'm Yang/Diane, a data analyst who enjoys turning messy data into insights a
 
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yang-dai-diane/)
-- [📁 Project Portfolio](https://github.com/yangyang2ok/project_guide-/blob/main/README.md)check my protfolio 😉
+- [📁 Project Portfolio](https://github.com/yangyang2ok/project_guide-/blob/main/README.md) check out my protfolio 😉
